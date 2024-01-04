@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 function Footer() {
   return (
-    <div  className='container-fluid mt-5 '>
+    <div style={{marginTop:'200px'}}  className='container-fluid  '>
     <div className="footer-content d-flex justify-content-between">
       <div style={{width:'25%'}} className="logo  d-flex flex-column">
      <div className='d-flex'>
